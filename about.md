@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: A few more words about purpose of versiku.com
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+This is a free blog for everyone, you can do whatever you want to do; e.g (styling, beautify, even posting), but as an author I have to clarify your Pull Request.
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+This Website owned by Muhammad Muhlas in a group of [Abror_Net](http://abror.net)
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})

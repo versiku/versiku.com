@@ -1,9 +1,9 @@
 title: Versiku
-description: All is about versioning, and it's my version.
+description: Tell Stories In Different Ways
 show_downloads: true
 
-baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://versiku.com" # change this to the base hostname & protocol for your site
+baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: # change this to the base hostname & protocol for your site
 
 google_analytics: UA-117502873-2
 # cayman-blog date format
