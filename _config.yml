@@ -9,7 +9,7 @@ google_analytics: UA-117502873-2
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
-  date_format: "%b %-d, %Y"
+  date_format: "%A, %B %-d, %Y"
 
 theme: # leave it empty
 
@@ -26,6 +26,6 @@ facebook:
   #authors: lorepirri
 #  admins:
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
